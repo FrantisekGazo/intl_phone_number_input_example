@@ -202,7 +202,7 @@ packages:
       name: intl_phone_number_input
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.4.5"
+    version: "0.4.6"
   io:
     dependency: transitive
     description:

@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  intl_phone_number_input: 0.4.5
+  intl_phone_number_input: 0.4.6
 
 dev_dependencies:
   # unit testing
